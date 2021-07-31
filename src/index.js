@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Routes from './Routes';
 import reportWebVitals from './reportWebVitals';
+// Need this to serve up images
+const Pokedex = require('pokeapi-js-wrapper');
+const P = new Pokedex.Pokedex({
+  cacheImages: true,
+});
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* Need this to serve up images */}
+    <script src="https://unpkg.com/pokeapi-js-wrapper/dist/index.js"></script>
+    <Routes />
   </React.StrictMode>,
   document.getElementById('root')
 );
