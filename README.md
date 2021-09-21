@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How can I use Poké-Vis?
 
-1. Interact with the visualizations I have created on the deployed website here: https://poke-vis.herokuapp.com/
+1. Interact with the visualizations already created on the deployed website here: https://poke-vis.herokuapp.com/
 2. Fork and clone this repo and try it out for yourself! Instructions for how to run this application locally can be found in the repo here: `/Running-Locally-Instructions.md`
 
 ## Author
