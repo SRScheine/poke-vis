@@ -1,3 +1,5 @@
+**AUTHOR'S NOTE: This application is currently in development, so many features are unfinished. Regardless, feel free to look around!**
+
 # Poké-Vis!
 
 Welcome to Poké-Vis, an application that allows users to see beautiful data visualizations of their favorite Pokémon!
